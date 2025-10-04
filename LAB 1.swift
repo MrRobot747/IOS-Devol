@@ -1,3 +1,4 @@
+
 // Step 1
 var firstName: String = "Yersultan"
 var lastName: String = "Abdikhamitov"
@@ -17,10 +18,7 @@ var isHobbyCreative: Bool = true
 var secondHobby: String = "Football"
 var lovesMusic: Bool = true
 
-// Bonus
-let birthYear: Int = 2005
-let currentYear: Int = 2025
-let age: Int = currentYear - birthYear   
+
 
 // Step 3
 var lifeStory: String = """
@@ -32,7 +30,7 @@ I also enjoy \(secondHobby).
 I have \(numberOfHobbies) hobbies in total, and my favorite number is \(favoriteNumber).
 Do I love music? \(lovesMusic).
 My favorite emoji is \(favoriteEmoji).
-\(futureGoals)
+
 """
 
 // Step 4
