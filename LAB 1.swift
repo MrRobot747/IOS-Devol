@@ -18,7 +18,9 @@ var secondHobby: String = "Football"
 var lovesMusic: Bool = true
 
 // Bonus
-var futureGoals: String = "In the future, I want to become a great software engineer and travel the world 🌍"
+let birthYear: Int = 2005
+let currentYear: Int = 2025
+let age: Int = currentYear - birthYear   
 
 // Step 3
 var lifeStory: String = """
